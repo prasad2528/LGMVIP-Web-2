@@ -19,7 +19,8 @@ nav button {
     padding: 8px 12px;
     cursor: pointer;
 }
-
+.logo{
+    width:120px;
 button {
     height: 38px;
     width: 120px;
